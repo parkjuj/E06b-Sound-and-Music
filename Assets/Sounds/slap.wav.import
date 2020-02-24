@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/slap.wav-b3622e5c4d9348b2666a6b0270d6b8ef.sample"
+
+[deps]
+
+source_file="res://Assets/Sounds/slap.wav"
+dest_files=[ "res://.import/slap.wav-b3622e5c4d9348b2666a6b0270d6b8ef.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
